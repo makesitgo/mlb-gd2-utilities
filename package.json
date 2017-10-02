@@ -1,0 +1,22 @@
+{
+  "name": "mlb-gd2-utilities",
+  "version": "0.0.0",
+  "description": "a suite of tools designed to interface with mlb.com's gameday data",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@makesitgo.github.com:makesitgo/mlb-gd2-utilities"
+  },
+  "author": "Nick Makes",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cheerio": "~1.0.0-rc.2",
+    "command-line-args": "~4.0.6",
+    "command-line-usage": "~4.0.0",
+    "commander": "^2.11.0",
+    "inquirer": "^3.1.1",
+    "mongodb": "~2.2.29",
+    "request": "~2.81.0"
+  }
+}
